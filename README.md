@@ -2,7 +2,7 @@
 
 ### Overview
 
-This repository is to accompany the manuscript **“Out of (the) Bag - encoding categorical predictors impacts out-of-bag samples”** by *H.L. Smith, P.J. Biggs, N.P. French, A.N.H. Smith,* and *J.C. Marshall* (2024).
+This repository is to accompany the manuscript **“Out of (the) Bag - encoding categorical predictors impacts out-of-bag samples”** by *H.L. Smith, P.J. Biggs, N.P. French, A.N.H. Smith,* and *J.C. Marshall*, in PeerJ Computer Science (2024).
 
 **Out Of (the) Bag** details issues with using out-of-bag observations to calculate error rates and measures of variable importance when categorical variables are ordinal encoded.
 
